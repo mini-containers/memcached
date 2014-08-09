@@ -30,6 +30,10 @@ docker run -d -p 11211:11211 -e MEMCACHED_MEMORY=512 mini/memcached
 
 Above will make memcached use `512MB` of RAM.
 
+## Sponsor
+
+Work on this was made possible thanks to [AREA 17](http://www.area17.com).
+
 ## License
 
 All the code contained in this repository, unless explicitly stated, is
